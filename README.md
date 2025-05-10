@@ -92,6 +92,7 @@ This dataset contains simulated or real-world data from solar desalination syste
 - Research articles on solar desalination techniques
 - Textbooks on water treatment and renewable energy systems
 - Scikit-learn documentation for model training
+- Please find Dataset for operations : https://drive.google.com/file/d/1QHx9aTSheQ0Sxth-DVuM0ogmaYLSW-CB/view?usp=sharing
 
 ---
 
